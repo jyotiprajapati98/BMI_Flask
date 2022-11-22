@@ -7,12 +7,6 @@ docutils==0.19
 fonttools==4.38.0
 idna==3.4
 joblib==1.2.0
-Kivy==2.1.0
-kivy-deps.angle==0.3.3
-kivy-deps.glew==0.3.1
-kivy-deps.sdl2==0.4.5
-Kivy-Garden==0.1.5
-kiwisolver==1.4.4
 matplotlib==3.6.2
 numpy==1.23.4
 opencv-python==4.6.0.66
